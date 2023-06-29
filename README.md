@@ -1,4 +1,6 @@
-# Popular_Restaurants
+# Analysis on Popular Restaurants in New York City 
+## Using Selenium,Google Maps API, Open AI AP
+
 Find popular restaurants and process their reviews.
 
 1. Get restaurant data from Resy website by scraping.
