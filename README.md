@@ -40,16 +40,20 @@ To use this notebook, you need to provide your Google Maps and OpenAI API keys. 
 
 ## Analysis
 
-Data
+### Data
+
 <img width="989" alt="image" src="https://github.com/dlworudgg/Popular_Restaurants/assets/37742961/449985fe-0199-47b3-b25c-512016022f70">
 
-2-D t-SNE Visualization
+### 2-D t-SNE Visualization
+
 <img width="745" alt="image" src="https://github.com/dlworudgg/Popular_Restaurants/assets/37742961/a98e212b-f629-4335-a8be-c73f6ec34fa0">
 
-3-D t-SNE Visualization
+### 3-D t-SNE Visualization
+
 ![Area for Improvement 3D t-SNE](https://github.com/dlworudgg/Popular_Restaurants/assets/37742961/9c962292-f266-4ca7-be21-467241c67c49)
 
-Overall Summary of Area for Improvment for top restaurants in New York City
+### Overall Summary of Area for Improvment for top restaurants in New York City
+
 <img width="396" alt="image" src="https://github.com/dlworudgg/Popular_Restaurants/assets/37742961/3965bba3-f3e5-4cf9-a198-08384ee55a45">
 
 
