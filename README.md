@@ -1,5 +1,6 @@
 # Analysis on Popular Restaurants in New York City
 
+
 This project performs an analysis on popular restaurants in New York City using data scraped from Google Maps and processed using the OpenAI API. 
 
 ## Steps
