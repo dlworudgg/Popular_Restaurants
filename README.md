@@ -18,17 +18,10 @@ This project performs an analysis on popular restaurants in New York City using 
 
 This project requires the following Python libraries:
 - Selenium
-- Pandas
-- Numpy
 - OpenAI API
 - sklearn
-- requests
 - matplotlib
-- plotly
-- tqdm
-- ast
-- re
-- retrying
+  
 
 ## Usage
 
